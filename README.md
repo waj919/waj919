@@ -11,10 +11,15 @@
 
 <br/>
 
+- 🏙️ Raised in Brooklyn
+- 👨‍💻 Full-stack developer
+- 🏫 Recent grad from appAcademy
+- 🔥 Passionate about coding, games, and snowboarding
 - 👯 I’m looking to collaborate on any projects! 
 - 🤔 I am currently applying to jobs
 - 💬 Ask me about anything! I'm an open person and love to talk
 - ⚡ Fun fact: I love snowboarding :snowboarder:
+
 
 ## Languages and Tools 🛠️
 
