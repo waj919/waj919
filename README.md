@@ -11,7 +11,6 @@
 
 <br/>
 
-- 🏙️ Raised in Brooklyn
 - 👨‍💻 Full-stack developer
 - 🏫 Recent grad from appAcademy
 - 🔥 Passionate about coding, games, and snowboarding
