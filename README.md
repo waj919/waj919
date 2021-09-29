@@ -1,5 +1,5 @@
 ### Hi there, My name is Wajahat, but you can call me Waj 👋
-<a href="https://www.linkedin.com/in/wajahat-shoukat-3397a9143/">
+<a href="https://www.linkedin.com/in/wajahat-shoukat/">
   <img align="left" alt="Linkedin" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
